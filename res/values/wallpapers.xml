@@ -41,6 +41,14 @@
     <item>wallpaper_29</item>
     <item>wallpaper_30</item>
     <item>wallpaper_31</item>
+    <item>wallpaper_32</item>
+    <item>wallpaper_33</item>
+    <item>wallpaper_34</item>
+    <item>wallpaper_35</item>
+    <item>wallpaper_36</item>
+    <item>wallpaper_37</item>
+    <item>wallpaper_38</item>
+    <item>wallpaper_39</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -73,8 +81,15 @@
     <item>Seawaves</item>
     <item>Unexpected postal card</item>
     <item>I want to go home</item>
-    <item>Munro\'s telecom</item>
+    <item>Tired of being enchained</item>
     <item>Please dude, stop with the sunsets</item>
-    <item>Brasil over clouds</item>
+    <item>Brasil over shishu</item>
+    <item>Industrial before the fire</item>
+    <item>Telecom Antenna</item>
+    <item>Marta\'s Sunset</item>
+    <item>Black hole sun</item>
+    <item>Generic statement about evening</item>
+    <item>Weird Sunset at T2</item>
+    <item>Morning Clouds</item>
     </string-array>
 </resources>
