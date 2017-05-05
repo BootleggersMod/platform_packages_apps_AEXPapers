@@ -1,96 +1,107 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2013 XenonHD
-
-     Licensed under the GNU GPLv2 license
-
-     The text of the license can be found in the LICENSE file
-     or at https://www.gnu.org/licenses/gpl-2.0.txt
--->
-
 <resources>
     <string-array name="wallpapers" translatable="false">
-    <item>wallpaper_00</item>
-    <item>wallpaper_01</item>
-    <item>wallpaper_02</item>
-    <item>wallpaper_03</item>
-    <item>wallpaper_04</item>
-    <item>wallpaper_05</item>
-    <item>wallpaper_06</item>
-    <item>wallpaper_07</item>
-    <item>wallpaper_08</item>
-    <item>wallpaper_09</item>
-    <item>wallpaper_10</item>
-    <item>wallpaper_11</item>
-    <item>wallpaper_12</item>
-    <item>wallpaper_13</item>
-    <item>wallpaper_14</item>
-    <item>wallpaper_15</item>
-    <item>wallpaper_16</item>
-    <item>wallpaper_17</item>
-    <item>wallpaper_18</item>
-    <item>wallpaper_19</item>
-    <item>wallpaper_20</item>
-    <item>wallpaper_21</item>
-    <item>wallpaper_22</item>
-    <item>wallpaper_23</item>
-    <item>wallpaper_24</item>
-    <item>wallpaper_25</item>
-    <item>wallpaper_26</item>
-    <item>wallpaper_27</item>
-    <item>wallpaper_28</item>
-    <item>wallpaper_29</item>
-    <item>wallpaper_30</item>
-    <item>wallpaper_31</item>
-    <item>wallpaper_32</item>
-    <item>wallpaper_33</item>
-    <item>wallpaper_34</item>
-    <item>wallpaper_35</item>
-    <item>wallpaper_36</item>
-    <item>wallpaper_37</item>
-    <item>wallpaper_38</item>
-    <item>wallpaper_39</item>
+        <item>wallpaper_00</item>
+        <item>wallpaper_01</item>
+        <item>wallpaper_02</item>
+        <item>wallpaper_03</item>
+        <item>wallpaper_04</item>
+        <item>wallpaper_05</item>
+        <item>wallpaper_06</item>
+        <item>wallpaper_07</item>
+        <item>wallpaper_08</item>
+        <item>wallpaper_09</item>
+        <item>wallpaper_10</item>
+        <item>wallpaper_11</item>
+        <item>wallpaper_12</item>
+        <item>wallpaper_13</item>
+        <item>wallpaper_14</item>
+        <item>wallpaper_15</item>
+        <item>wallpaper_16</item>
+        <item>wallpaper_17</item>
+        <item>wallpaper_18</item>
+        <item>wallpaper_19</item>
+        <item>wallpaper_20</item>
+        <item>wallpaper_21</item>
+        <item>wallpaper_22</item>
+        <item>wallpaper_23</item>
+        <item>wallpaper_24</item>
+        <item>wallpaper_25</item>
+        <item>wallpaper_26</item>
+        <item>wallpaper_27</item>
+        <item>wallpaper_28</item>
+        <item>wallpaper_29</item>
+        <item>wallpaper_30</item>
+        <item>wallpaper_31</item>
+        <item>wallpaper_32</item>
+        <item>wallpaper_33</item>
+        <item>wallpaper_34</item>
+        <item>wallpaper_35</item>
+        <item>wallpaper_36</item>
+        <item>wallpaper_37</item>
+        <item>wallpaper_38</item>
+        <item>wallpaper_39</item>
+        <item>wallpaper_40</item>
+        <item>wallpaper_41</item>
+        <item>wallpaper_42</item>
+        <item>wallpaper_43</item>
+        <item>wallpaper_44</item>
+        <item>wallpaper_45</item>
+        <item>wallpaper_46</item>
+        <item>wallpaper_47</item>
+        <item>wallpaper_48</item>
+        <item>wallpaper_49</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-    <item>Sad Lorenzo</item>
-    <item>Cloudstitucion</item>
-    <item>Generic Noon</item>
-    <item>0806: A month later</item>
-    <item>Sunset #893</item>
-    <item>Brasad</item>
-    <item>Going back home</item>
-    <item>Surnia focus example</item>
-    <item>Dank sunset</item>
-    <item>Ikaro\'s Flowers (edit)</item>
-    <item>Missisangry</item>
-    <item>Blurry day</item>
-    <item>Somewhere over the genericquote</item>
-    <item>Munro\'s random building</item>
-    <item>Childhood revisited</item>
-    <item>Flowers edited to be pretty</item>
-    <item>Oh, a sunset</item>
-    <item>Oh... another sunset</item>
-    <item>Some kind of hipster stuff</item>
-    <item>Sad Lorenzo\'s bridge</item>
-    <item>Can you stop with the sunsets?</item>
-    <item>Calm evening</item>
-    <item>It\'s close to dark</item>
-    <item>Cloudy sunset</item>
-    <item>Sad parking lot</item>
-    <item>dvas33\'s holidays (edited)</item>
-    <item>Seawaves</item>
-    <item>Unexpected postal card</item>
-    <item>I want to go home</item>
-    <item>Tired of being enchained</item>
-    <item>Please dude, stop with the sunsets</item>
-    <item>Brasil over shishu</item>
-    <item>Industrial before the fire</item>
-    <item>Telecom Antenna</item>
-    <item>Marta\'s Sunset</item>
-    <item>Black hole sun</item>
-    <item>Generic statement about evening</item>
-    <item>Remember that days</item>
-    <item>Weird Sunset at T2</item>
-    <item>Morning Clouds</item>
+        <item>Sad Lorenzo</item>
+        <item>Cloudstitucion</item>
+        <item>Generic Noon</item>
+        <item>0806: A month later</item>
+        <item>Sunset #893</item>
+        <item>Brasad</item>
+        <item>Going back home</item>
+        <item>Surnia focus example</item>
+        <item>Dank sunset</item>
+        <item>Ikaro\'s Flowers (edit)</item>
+        <item>Missisangry</item>
+        <item>Blurry day</item>
+        <item>Somewhere over the genericquote</item>
+        <item>Munro\'s random building</item>
+        <item>Childhood revisited</item>
+        <item>Flowers edited to be pretty</item>
+        <item>Oh, a sunset</item>
+        <item>Oh... another sunset</item>
+        <item>Some kind of hipster stuff</item>
+        <item>Sad Lorenzo\'s bridge</item>
+        <item>Can you stop with the sunsets?</item>
+        <item>Calm evening</item>
+        <item>It\'s close to dark</item>
+        <item>Cloudy sunset</item>
+        <item>Sad parking lot</item>
+        <item>dvas33\'s holidays (edited)</item>
+        <item>Seawaves</item>
+        <item>Unexpected postal card</item>
+        <item>I want to go home</item>
+        <item>Tired of being enchained</item>
+        <item>Please dude, stop with the sunsets</item>
+        <item>Brasil over shishu</item>
+        <item>Industrial before the fire</item>
+        <item>Telecom Antenna</item>
+        <item>Marta\'s Sunset</item>
+        <item>Black hole sun</item>
+        <item>Generic statement about evening</item>
+        <item>Remember that days</item>
+        <item>Weird Sunset at T2</item>
+        <item>Morning Clouds</item>
+        <item>Charm Sunset</item>
+        <item>[.buenosadness]</item>
+        <item>uninspired</item>
+        <item>about:home</item>
+        <item>When the streets have clearly a name.</item>
+        <item>Dreams about stuff</item>
+        <item>Somewhat european</item>
+        <item>I\'ve got a building on my ad</item>
+        <item>Night Drive</item>
+        <item>Tecnica 2 Rising</item>
     </string-array>
 </resources>
